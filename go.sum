@@ -1,0 +1,10 @@
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100 h1:YfBUWb8p0QBkMjabA6bFhhzwbz37SBVW7b7OUCFgZUE=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100/go.mod h1:Z5Bhe4pfn8reoHhWqCQMWEAynLCIeBAt1TDwni4fipM=
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
+github.com/razonyang/hb v0.1.0 h1:7P75JJ7l0D5eiMV/i1BwpEKX+HOJzeq0SV9ESudeBbo=
+github.com/razonyang/hb v0.1.0/go.mod h1:SWSWD+vI2L8roPalnwAmkWAm/iGwwX+XD641kWUL8f8=
+github.com/razonyang/hugo-mod-icons-bootstrap v0.1.0 h1:MU0b6ABd3Uv0g97vmXLXfC+2rTfHxpiIhiJN9yFe7lQ=
+github.com/razonyang/hugo-mod-icons-bootstrap v0.1.0/go.mod h1:oHcagv2he4eWiG/+S6hWt9FfI+gRrBbEhesQ7SoEMRo=
+github.com/twbs/bootstrap v5.2.1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.2.4-0.20221129153819-d9f8be677325+incompatible h1:P1EK4oB5wPV+rgJ7MsbNlyQvW2J6/oG96HKqS2g/OgA=
+github.com/twbs/bootstrap v5.2.4-0.20221129153819-d9f8be677325+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=

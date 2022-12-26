@@ -1,0 +1,17 @@
+{
+  "name": "HB Header Module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razonyang/hb-header.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razonyang/hb-header/issues"
+  },
+  "homepage": "https://github.com/razonyang/hb-header#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13"
+  }
+}
