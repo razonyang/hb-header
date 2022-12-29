@@ -3,7 +3,9 @@ github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20200.20100/go.mod h1:Z5Bhe4pf
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/razonyang/hb v0.1.1 h1:hHS4z7YBv+Rh92Lj93bvz+pdmKqIQhgvUOptCBmJLDY=
 github.com/razonyang/hb v0.1.1/go.mod h1:X02luEAFN9eoQTNdlef8xbWIw75UBibtde3FyoA8kaM=
-github.com/razonyang/hugo-mod-icons-bootstrap v0.1.0 h1:MU0b6ABd3Uv0g97vmXLXfC+2rTfHxpiIhiJN9yFe7lQ=
-github.com/razonyang/hugo-mod-icons-bootstrap v0.1.0/go.mod h1:oHcagv2he4eWiG/+S6hWt9FfI+gRrBbEhesQ7SoEMRo=
+github.com/razonyang/hugo-mod-icons v0.2.0 h1:xEeFV2bZnimG5KH+l0yWWYtq9doJODBM/IpX6DVB8xY=
+github.com/razonyang/hugo-mod-icons v0.2.0/go.mod h1:4atUyrOOKz1CnywT6qdUy3KoK4hcsM/JnS/EvqDWgnY=
+github.com/razonyang/hugo-mod-icons/vendors/bootstrap v0.1.0 h1:DCMA8MUdo0eRQGTmlBGzCGFTThYv9hSLsRGBdKrWtJ8=
+github.com/razonyang/hugo-mod-icons/vendors/bootstrap v0.1.0/go.mod h1:qpjpOVApH3ioWClhE05ja646/w6Wy4lz2mUA16JofEI=
 github.com/twbs/bootstrap v5.3.0-alpha1+incompatible h1:TWdQPnyCB2GbvtvDglzVbOZEiXD7WgXOq8hH/mk2KKE=
 github.com/twbs/bootstrap v5.3.0-alpha1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
