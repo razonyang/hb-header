@@ -1,3 +1,4 @@
+$hb-header-caret-width: 0.35em;
 @include hb-header-theme("classic") {
     .hb-header-nav {
         @extend .bg-primary;
@@ -17,12 +18,12 @@
                     &::before {
                         content: "";
                         position: absolute;
-                        left: calc(50% - #{$caret-width});
-                        top: calc(100% + #{$caret-width} - 0.05em);
-                        border-left: $caret-width solid transparent;
-                        border-right: $caret-width solid transparent;
+                        left: calc(50% - #{$hb-header-caret-width});
+                        top: calc(100% + #{$hb-header-caret-width} - 0.05em);
+                        border-left: $hb-header-caret-width solid transparent;
+                        border-right: $hb-header-caret-width solid transparent;
                         // unable to access the :root variable --#{$prefix}body-bg, use SCSS variable instead.
-                        border-bottom: $caret-width solid #{$body-bg};
+                        border-bottom: $hb-header-caret-width solid #{$body-bg};
                     }
                 }
             }
