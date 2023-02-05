@@ -1,5 +1,7 @@
 # HB Header Module
 
+Moved into https://github.com/razonyang/hb.
+
 The universal header module for the [Hugo Bootstrap framework](https://github.com/razonyang/hb).
 
 ## Modules
